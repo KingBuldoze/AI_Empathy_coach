@@ -36,4 +36,4 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
 This project is an educational prototype developed for a Master's Capstone. It is intended for training communication skills only and does not provide medical advice or diagnosis.
 
 ---
-*Developed by [Your Name]*
+*Developed by Abhay Das
