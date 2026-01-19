@@ -5,7 +5,7 @@ The **AI Empathy Coach** is a Capstone Project designed to help medical professi
 
 Communication errors in healthcare can lead to poor patient outcomes and physician burnout. This unique project aims to solve the "training gap" by providing an on-demand, scalable alternative to traditional simulation methods.
 
-## ✨ Key Features vof the project
+## ✨ Key Features of this project
 
 * **🎭 AI Patient Simulator:**
     * Simulates realistic patient personas (e.g., "John Miller," an anxious patient receiving a diagnosis).
