@@ -1,7 +1,7 @@
 # 🩺 AI Empathy Coach: Medical Communication Training Toolkit For Medical Professional Practice
 
 ## 📖 Overview
-The **AI Empathy Coach** is a Capstone Project designed to help medical professionals practice difficult patient conversations. Using Generative AI, this toolkit creates realistic, text based roleplay scenarios and provides objective, private feedback on communication skills.
+The **AI Empathy Coach** is a Capstone Project designed to help medical professionals practice difficult patient conversations. Using Generative AI, this toolkit creates realistic, text-based roleplay scenarios and provides objective, private feedback on communication skills.
 
 Communication errors in healthcare can lead to poor patient outcomes and physician burnout. This unique project aims to solve the "training gap" by providing an on-demand, scalable alternative to traditional simulation methods.
 
