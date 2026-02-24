@@ -22,7 +22,7 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
 
 ## 🛠️ Technical Architecture
 
-* **Language Model:** Large Language Models (LLM) via API (e.g., GPT-4) for simulation logic and analysis.
+* **Language Model:** Large Language Models (LLM) via API (e.g., GPT-4) for simulation logic and analysis,
 * **Prompt Engineering:** Utilizes "Persona Prompting" for the patient agent and "Structured Chain-of-Thought" for the evaluator agent.
 * **Interface:** (Planned) Interactive web-based chat interface.
 
