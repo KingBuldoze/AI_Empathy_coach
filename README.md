@@ -9,7 +9,7 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
 
 * **🎭 AI Patient Simulator:**
     * Simulates realistic patient personas (e.g., "John Miller," an anxious patient receiving a diagnosis.
-    * Dynamic, unscripted responses based on a distinct personality and emotional state.; EDRF
+    * Dynamic, unscripted responses based on a distinct personality and emotional state.; 
     * Reacts in real-time to the user's tone and choice of words.
 
 * **📝 Automated Feedback Engine:**
