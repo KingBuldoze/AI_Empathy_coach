@@ -8,7 +8,7 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
 ## ✨ Key Features of this project
 
 * **🎭 AI Patient Simulator:**
-    * Simulates realistic patient personas (e.g., "John Miller," an anxious patient receiving a diagnosis.
+    * Simulates realistic patient personas (e.g., "John Miller," an anxious patient receiving a diagnosis.df
     * Dynamic, unscripted responses based on a distinct personality and emotional state.; 
     * Reacts in real-time to the user's tone and choice of words.
 
