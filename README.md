@@ -16,7 +16,7 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
     * Analyzes the conversation transcript immediately after the session.
     * Scores performance on **Empathy**, **Clarity**, and **Patient-Centricity**.
     * Provides specific examples from the chat and actionable suggestions for improvement.
-
+sdsd
 * **🎬 Multimedia Integration:**
     * Includes dynamic visual avatars and sentiment-aware feedback to enhance immersion.
 
