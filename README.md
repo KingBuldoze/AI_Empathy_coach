@@ -12,7 +12,7 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
     * Dynamic, unscripted responses based on a distinct personality and emotional state.; 
     * Reacts in real-time to the user's tone and choice of words.
 * **📝 Automated Feedback Engine:**
-    * Analyzes the conversation transcript immediately after the session.main
+    * Analyzes the conversation transcript immediately after the session.
     * Scores performance on **Empathy**, **Clarity**, and **Patient-Centricity**.
     * Provides specific examples from the chat and actionable suggestions for improvement.
 
