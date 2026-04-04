@@ -28,7 +28,7 @@ Communication errors in healthcare can lead to poor patient outcomes and physici
 ## 🚀 How It Works
 1.  **Select Scenario:** The user chooses a difficulty level and clinical context.
 2.  **Engage:** The user chats with the AI patient, breaking bad news or explaining complex treatments.
-3.  **Analyze:** The system processes the transcript.
+3.  **Analyze:** The system processes the transcript.d
 4.  **Learn:** The user receives a detailed "Communication Report Card."
 
 ## ⚠️ Disclaimer
